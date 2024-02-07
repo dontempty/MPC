@@ -1,8 +1,5 @@
 # MPC
 
-<p align="center">
-  <img src="https://github.com/donstrave/MPC/blob/main/assets/97787858/f08071bc-bacb-4d57-ab2f-a28c7455280c/image1.jpg" alt="Image 1" width="30%">
-  <img src="https://github.com/donstrave/MPC/blob/main/assets/97787858/f08071bc-bacb-4d57-ab2f-a28c7455280c/image2.jpg" alt="Image 2" width="30%">
-  <img src="https://github.com/donstrave/MPC/blob/main/assets/97787858/f08071bc-bacb-4d57-ab2f-a28c7455280c/image3.jpg" alt="Image 3" width="30%">
-</p>
+![3](https://github.com/dontempty/MPC/assets/155451345/92e7895f-4cb5-43d3-a8d3-8d6fbc617c87) | ![4](https://github.com/dontempty/MPC/assets/155451345/07b409b8-9cc6-4b71-b9f0-8e46494acae5)
+--- | --- |
 
